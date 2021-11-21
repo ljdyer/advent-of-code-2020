@@ -13,7 +13,7 @@ I decided to solve the problem using Microsoft Excel and set myself a time limit
 
 Check out the YouTube video to watch me solve the problem:
 
-[![Solution video](youtube.PNG)](https://www.youtube.com/watch?v=FsBa_FccdSQ)
+[![Solution video](youtube-screenshot.PNG)](https://www.youtube.com/watch?v=FsBa_FccdSQ)
 
 ## Reflections and learning outcomes
 
