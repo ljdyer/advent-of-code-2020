@@ -8,10 +8,10 @@ I decided to solve this problem using a completely new programming language - Ja
 
 1. Read input file and created an 'array list' of line using **Scanner**.
 2. For each line:
-a) Split each line by ":" character to get rule and password.
-b) Split rule part by " " character to get range and letter.
-c) Split range part by "-" character to get min and max.
-d) Counted number instances of letter in password and added one to counter variable if within permitted range.
+    1. Split each line by ":" character to get rule and password.
+    2. Split rule part by " " character to get range and letter.
+    3. Split range part by "-" character to get min and max.
+    4. Counted number of instances of letter in password and added one to counter variable if within permitted range.
 3. Printed value of counter variable to get answer.
 
 Check out the YouTube video to watch me solve the problem:
