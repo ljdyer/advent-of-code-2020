@@ -16,8 +16,7 @@ I decided to solve this problem using a completely new programming language - Ja
 
 Check out the YouTube video to watch me solve the problem:
 
-(coming soon)
-<!-- [![Solution video](youtube-screenshot.PNG)](https://www.youtube.com/watch?v=FsBa_FccdSQ) -->
+[![Solution video](youtube-screenshot.PNG)](https://www.youtube.com/watch?v=zqF3VId-xNs)
 
 ## Reflections and learning outcomes
 
