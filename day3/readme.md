@@ -8,7 +8,6 @@ Solved using Python.
 
 Check out the YouTube video to watch me solve the problem (no audio this time):
 
-(coming soon)
 [![Solution video](youtube-screenshot.PNG)](https://www.youtube.com/watch?v=fmsex2XvFfA)
 
 ## Reflections and learning outcomes
